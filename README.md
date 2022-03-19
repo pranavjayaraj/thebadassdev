@@ -1,8 +1,6 @@
 <img
     src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg"
-    alt="triangle with all three sides equal"
-    height="87"
-    width="100" />
+    alt="triangle with all three sides equal"/>
 
 ### Hi there 👋
 
