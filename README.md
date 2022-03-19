@@ -1,4 +1,11 @@
+<img
+    src="equilateral.svg"
+    alt="triangle with all three sides equal"
+    height="87"
+    width="100" />
+
 ### Hi there 👋
+
 
 <!--
 **thebadassdev/thebadassdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
