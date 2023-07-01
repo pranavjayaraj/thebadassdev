@@ -16,4 +16,4 @@ Here are some things about me:
 - 📫 How to reach me: pranavjayaraj7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a backend developer/ I worked in Django python for about 2 years.
-- 😄 What am I currently learning? : Cyber Security
+- 😄 What am I currently learning? : Mobile Security
